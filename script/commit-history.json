@@ -228,12 +228,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "108f8600000f632cf585b98e424c4fddbd1d7fd5",
     "author": "AldrinZurita",
     "commit": {
       "date": "2026-05-28T11:45:30.000Z",
       "message": "refactor: mejorar claridad en comentarios",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/108f8600000f632cf585b98e424c4fddbd1d7fd5"
     },
     "stats": {
       "total": 2,
@@ -245,5 +245,24 @@
     "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "AldrinZurita",
+    "commit": {
+      "date": "2026-05-28T11:46:20.000Z",
+      "message": "test: caso delimitador personalizado en rojo",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 7,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]

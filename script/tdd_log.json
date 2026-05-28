@@ -216,9 +216,23 @@
     "testId": 12
   },
   {
-    "commitId": "HEAD",
+    "commitId": "108f8600000f632cf585b98e424c4fddbd1d7fd5",
     "commitName": "refactor: mejorar claridad en comentarios",
     "commitTimestamp": 1779968731807,
     "testId": 12
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 1,
+    "numTotalTests": 7,
+    "timestamp": 1779968775168,
+    "success": false,
+    "testId": 13
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: caso delimitador personalizado en rojo",
+    "commitTimestamp": 1779968781408,
+    "testId": 13
   }
 ]
