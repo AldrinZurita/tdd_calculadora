@@ -7,14 +7,14 @@ function sumarCadena(cadena) {
   let delimitadores = [",", "-"];
   let contenido = cadena;
 
-  // Procesar delimitadores personalizados
+  // Procesar delimitadores personalizados en formato //[delim]\n
   if (cadena.startsWith("//")) {
     const partes = cadena.split("\n");
     const definicion = partes[0].substring(2);
     contenido = partes[1] || "";
     delimitadores = [];
 
-    // Parsear delimitadores: //[delim]
+    // Parsear delimitadores: //[delim1][delim2]...
     let index = 0;
     while (index < definicion.length) {
       if (definicion[index] === "[") {
@@ -32,7 +32,7 @@ function sumarCadena(cadena) {
     }
   }
 
-  // Crear patrón regex para dividir por todos los delimitadores
+  // Crear patrón regex escapando caracteres especiales
   const patronDelimitadores = delimitadores
     .map((d) => d.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"))
     .join("|");

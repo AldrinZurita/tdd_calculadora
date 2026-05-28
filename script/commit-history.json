@@ -266,17 +266,36 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "f4ed0272724b5e247017326e5d5884bc0defd803",
     "author": "AldrinZurita",
     "commit": {
       "date": "2026-05-28T11:46:46.000Z",
       "message": "feat: soportar delimitadores personalizados en verde",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/f4ed0272724b5e247017326e5d5884bc0defd803"
     },
     "stats": {
       "total": 39,
       "additions": 37,
       "deletions": 2,
+      "date": "2026-05-28"
+    },
+    "coverage": 92.31,
+    "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "AldrinZurita",
+    "commit": {
+      "date": "2026-05-28T11:47:13.000Z",
+      "message": "refactor: mejorar comentarios para parsing de delimitadores",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 3,
+      "deletions": 3,
       "date": "2026-05-28"
     },
     "coverage": 92.31,

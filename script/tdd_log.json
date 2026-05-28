@@ -244,9 +244,23 @@
     "testId": 14
   },
   {
-    "commitId": "HEAD",
+    "commitId": "f4ed0272724b5e247017326e5d5884bc0defd803",
     "commitName": "feat: soportar delimitadores personalizados en verde",
     "commitTimestamp": 1779968807390,
     "testId": 14
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1779968828926,
+    "success": true,
+    "testId": 15
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "refactor: mejorar comentarios para parsing de delimitadores",
+    "commitTimestamp": 1779968834593,
+    "testId": 15
   }
 ]
