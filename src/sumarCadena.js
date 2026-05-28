@@ -40,7 +40,7 @@ function sumarCadena(cadena) {
   const regex = new RegExp(patronDelimitadores);
   const numeros = contenido.split(regex);
 
-  // Sumar todos los números válidos (<=1000)
+  // Sumar todos los números válidos, ignorando números > 1000
   return numeros.reduce((suma, num) => {
     const numero = parseInt(num.trim(), 10);
     if (!isNaN(numero) && numero <= 1000) {

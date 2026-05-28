@@ -286,9 +286,23 @@
     "testId": 17
   },
   {
-    "commitId": "HEAD",
+    "commitId": "fce1014d98267433c2ab7106d9fa5a2706e6db6c",
     "commitName": "feat: filtrar numeros mayores a 1000 en verde",
     "commitTimestamp": 1779968906977,
     "testId": 17
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 0,
+    "numTotalTests": 8,
+    "timestamp": 1779968925529,
+    "success": true,
+    "testId": 18
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "refactor: clarificar logica de filtrado de numeros mayores a 1000",
+    "commitTimestamp": 1779968939443,
+    "testId": 18
   }
 ]

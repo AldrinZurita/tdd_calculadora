@@ -323,17 +323,36 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "fce1014d98267433c2ab7106d9fa5a2706e6db6c",
     "author": "AldrinZurita",
     "commit": {
       "date": "2026-05-28T11:48:25.000Z",
       "message": "feat: filtrar numeros mayores a 1000 en verde",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/fce1014d98267433c2ab7106d9fa5a2706e6db6c"
     },
     "stats": {
       "total": 18,
       "additions": 16,
       "deletions": 2,
+      "date": "2026-05-28"
+    },
+    "coverage": 93.1,
+    "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "AldrinZurita",
+    "commit": {
+      "date": "2026-05-28T11:48:58.000Z",
+      "message": "refactor: clarificar logica de filtrado de numeros mayores a 1000",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 9,
+      "deletions": 1,
       "date": "2026-05-28"
     },
     "coverage": 93.1,
