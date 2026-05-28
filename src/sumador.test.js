@@ -1,4 +1,5 @@
 import sumar from "./sumador.js";
+import sumarCadena from "./sumarCadena.js";
 
 describe("Sumar", () => {
   it("deberia sumar dos numeros", () => {
@@ -6,4 +7,9 @@ describe("Sumar", () => {
   });
 });
 
+describe("Calculadora de Cadenas", () => {
+  it("deberia retornar 0 para una cadena vacía", () => {
+    expect(sumarCadena("")).toEqual(0);
+  });
+});
 

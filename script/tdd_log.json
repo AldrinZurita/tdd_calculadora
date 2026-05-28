@@ -1,0 +1,24 @@
+[
+  {
+    "numPassedTests": 1,
+    "failedTests": 0,
+    "numTotalTests": 1,
+    "timestamp": 1779932229428,
+    "success": true,
+    "testId": 0
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 1,
+    "numTotalTests": 2,
+    "timestamp": 1779932274062,
+    "success": false,
+    "testId": 0
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: caso cadena vacia devuelve 0 en rojo",
+    "commitTimestamp": 1779932373961,
+    "testId": 0
+  }
+]
