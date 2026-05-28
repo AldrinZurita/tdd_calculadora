@@ -4,15 +4,9 @@ function sumarCadena(cadena) {
     return 0;
   }
   
-  // Dividir por coma y sumar
+  // Dividir por coma y sumar todos los números
   const numeros = cadena.split(",");
-  let suma = 0;
-  
-  for (let num of numeros) {
-    suma += parseInt(num.trim(), 10);
-  }
-  
-  return suma;
+  return numeros.reduce((suma, num) => suma + parseInt(num.trim(), 10), 0);
 }
 
 export default sumarCadena;

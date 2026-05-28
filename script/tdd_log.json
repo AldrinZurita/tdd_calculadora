@@ -130,9 +130,23 @@
     "testId": 7
   },
   {
-    "commitId": "HEAD",
+    "commitId": "2282f7f2154ed14f4626d95531da77a2783a532a",
     "commitName": "feat: soportar separador coma en verde",
     "commitTimestamp": 1779932979177,
     "testId": 7
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1779933003028,
+    "success": true,
+    "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "refactor: usar reduce para suma mas funcional",
+    "commitTimestamp": 1779933017254,
+    "testId": 8
   }
 ]

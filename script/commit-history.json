@@ -133,17 +133,36 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "2282f7f2154ed14f4626d95531da77a2783a532a",
     "author": "AldrinZurita",
     "commit": {
       "date": "2026-05-28T01:49:38.000Z",
       "message": "feat: soportar separador coma en verde",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/2282f7f2154ed14f4626d95531da77a2783a532a"
     },
     "stats": {
       "total": 11,
       "additions": 9,
       "deletions": 2,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "AldrinZurita",
+    "commit": {
+      "date": "2026-05-28T01:50:16.000Z",
+      "message": "refactor: usar reduce para suma mas funcional",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 2,
+      "deletions": 8,
       "date": "2026-05-28"
     },
     "coverage": 100,
