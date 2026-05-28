@@ -72,9 +72,31 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "02b40c99e85a8541303672c328c58efdcd58e816",
     "commitName": "feat: expandir logica para numeros unicos en verde",
     "commitTimestamp": 1779932863535,
     "testId": 4
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1779932871086,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1779932892235,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "refactor: agregar comentarios para mejorar legibilidad",
+    "commitTimestamp": 1779932908938,
+    "testId": 5
   }
 ]

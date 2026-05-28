@@ -76,16 +76,35 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "02b40c99e85a8541303672c328c58efdcd58e816",
     "author": "AldrinZurita",
     "commit": {
       "date": "2026-05-28T01:47:42.000Z",
       "message": "feat: expandir logica para numeros unicos en verde",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/02b40c99e85a8541303672c328c58efdcd58e816"
     },
     "stats": {
       "total": 11,
       "additions": 11,
+      "deletions": 0,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "AldrinZurita",
+    "commit": {
+      "date": "2026-05-28T01:48:28.000Z",
+      "message": "refactor: agregar comentarios para mejorar legibilidad",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 19,
+      "additions": 19,
       "deletions": 0,
       "date": "2026-05-28"
     },
