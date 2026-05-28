@@ -94,9 +94,31 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "2d6a9191042ea68f549c7b8733366d20541c29de",
     "commitName": "refactor: agregar comentarios para mejorar legibilidad",
     "commitTimestamp": 1779932908938,
     "testId": 5
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1779932917731,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1779932936715,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: caso dos numeros separados por coma en rojo",
+    "commitTimestamp": 1779932943700,
+    "testId": 6
   }
 ]
