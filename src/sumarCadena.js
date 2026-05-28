@@ -3,9 +3,44 @@ function sumarCadena(cadena) {
   if (cadena === "") {
     return 0;
   }
+
+  let delimitadores = [",", "-"];
+  let contenido = cadena;
+
+  // Procesar delimitadores personalizados
+  if (cadena.startsWith("//")) {
+    const partes = cadena.split("\n");
+    const definicion = partes[0].substring(2);
+    contenido = partes[1] || "";
+    delimitadores = [];
+
+    // Parsear delimitadores: //[delim]
+    let index = 0;
+    while (index < definicion.length) {
+      if (definicion[index] === "[") {
+        const finDelim = definicion.indexOf("]", index);
+        if (finDelim !== -1) {
+          const delim = definicion.substring(index + 1, finDelim);
+          delimitadores.push(delim);
+          index = finDelim + 1;
+        } else {
+          index++;
+        }
+      } else {
+        index++;
+      }
+    }
+  }
+
+  // Crear patrón regex para dividir por todos los delimitadores
+  const patronDelimitadores = delimitadores
+    .map((d) => d.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"))
+    .join("|");
   
-  // Dividir por coma o guion, luego sumar todos los números
-  const numeros = cadena.split(/[,-]/);
+  const regex = new RegExp(patronDelimitadores);
+  const numeros = contenido.split(regex);
+
+  // Sumar todos los números
   return numeros.reduce((suma, num) => suma + parseInt(num.trim(), 10), 0);
 }
 

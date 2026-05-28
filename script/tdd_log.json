@@ -230,9 +230,23 @@
     "testId": 13
   },
   {
-    "commitId": "HEAD",
+    "commitId": "e752efc54f8dc57d07e69a4496d715f4baa836a5",
     "commitName": "test: caso delimitador personalizado en rojo",
     "commitTimestamp": 1779968781408,
     "testId": 13
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1779968802708,
+    "success": true,
+    "testId": 14
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: soportar delimitadores personalizados en verde",
+    "commitTimestamp": 1779968807390,
+    "testId": 14
   }
 ]

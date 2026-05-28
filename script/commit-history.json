@@ -247,12 +247,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "e752efc54f8dc57d07e69a4496d715f4baa836a5",
     "author": "AldrinZurita",
     "commit": {
       "date": "2026-05-28T11:46:20.000Z",
       "message": "test: caso delimitador personalizado en rojo",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/e752efc54f8dc57d07e69a4496d715f4baa836a5"
     },
     "stats": {
       "total": 4,
@@ -264,5 +264,24 @@
     "test_count": 7,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "AldrinZurita",
+    "commit": {
+      "date": "2026-05-28T11:46:46.000Z",
+      "message": "feat: soportar delimitadores personalizados en verde",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 39,
+      "additions": 37,
+      "deletions": 2,
+      "date": "2026-05-28"
+    },
+    "coverage": 92.31,
+    "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
