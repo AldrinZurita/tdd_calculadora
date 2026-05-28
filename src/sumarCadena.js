@@ -4,7 +4,7 @@ function sumarCadena(cadena) {
     return 0;
   }
   
-  // Dividir por coma o guion y sumar todos los números
+  // Dividir por coma o guion, luego sumar todos los números
   const numeros = cadena.split(/[,-]/);
   return numeros.reduce((suma, num) => suma + parseInt(num.trim(), 10), 0);
 }

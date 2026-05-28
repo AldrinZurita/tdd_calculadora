@@ -202,9 +202,23 @@
     "testId": 11
   },
   {
-    "commitId": "HEAD",
+    "commitId": "3378f75d74777fd596d7a2ef50040bb055cc8349",
     "commitName": "feat: soportar separador guion en verde",
     "commitTimestamp": 1779968682672,
     "testId": 11
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1779968726282,
+    "success": true,
+    "testId": 12
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "refactor: mejorar claridad en comentarios",
+    "commitTimestamp": 1779968731807,
+    "testId": 12
   }
 ]

@@ -209,17 +209,36 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "3378f75d74777fd596d7a2ef50040bb055cc8349",
     "author": "AldrinZurita",
     "commit": {
       "date": "2026-05-28T11:44:41.000Z",
       "message": "feat: soportar separador guion en verde",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/3378f75d74777fd596d7a2ef50040bb055cc8349"
     },
     "stats": {
       "total": 12,
       "additions": 10,
       "deletions": 2,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "AldrinZurita",
+    "commit": {
+      "date": "2026-05-28T11:45:30.000Z",
+      "message": "refactor: mejorar claridad en comentarios",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 1,
+      "deletions": 1,
       "date": "2026-05-28"
     },
     "coverage": 100,
