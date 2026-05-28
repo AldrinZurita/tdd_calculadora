@@ -44,9 +44,23 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "3ca4f08e65b406d86f0283f948ac5ed9e3fdc11f",
     "commitName": "feat: implementar sumarCadena para cadena vacia en verde",
     "commitTimestamp": 1779932642516,
     "testId": 2
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1779932658234,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: caso un numero devuelve ese numero en rojo",
+    "commitTimestamp": 1779932764127,
+    "testId": 3
   }
 ]

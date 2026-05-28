@@ -11,5 +11,9 @@ describe("Calculadora de Cadenas", () => {
   it("deberia retornar 0 para una cadena vacía", () => {
     expect(sumarCadena("")).toEqual(0);
   });
+
+  it("deberia retornar el número para una cadena con un número", () => {
+    expect(sumarCadena("2")).toEqual(2);
+  });
 });
 
