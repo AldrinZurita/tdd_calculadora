@@ -58,9 +58,23 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "0c0e5e4b74780996dfde71ba7f37cf38735c2cae",
     "commitName": "test: caso un numero devuelve ese numero en rojo",
     "commitTimestamp": 1779932764127,
     "testId": 3
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1779932789868,
+    "success": false,
+    "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: expandir logica para numeros unicos en verde",
+    "commitTimestamp": 1779932863535,
+    "testId": 4
   }
 ]

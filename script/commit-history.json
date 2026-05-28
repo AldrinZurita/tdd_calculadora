@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "0c0e5e4b74780996dfde71ba7f37cf38735c2cae",
     "author": "AldrinZurita",
     "commit": {
       "date": "2026-05-28T01:46:03.000Z",
       "message": "test: caso un numero devuelve ese numero en rojo",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/0c0e5e4b74780996dfde71ba7f37cf38735c2cae"
     },
     "stats": {
       "total": 12,
@@ -74,5 +74,24 @@
     "test_count": 3,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "AldrinZurita",
+    "commit": {
+      "date": "2026-05-28T01:47:42.000Z",
+      "message": "feat: expandir logica para numeros unicos en verde",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 11,
+      "deletions": 0,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
