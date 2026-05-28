@@ -35,5 +35,9 @@ describe("Calculadora de Cadenas", () => {
   it("deberia ignorar números mayores a 1000", () => {
     expect(sumarCadena("2,1001")).toEqual(2);
   });
+
+  it("deberia soportar delimitadores de múltiples caracteres", () => {
+    expect(sumarCadena("//[***]\n1***2***3")).toEqual(6);
+  });
 });
 

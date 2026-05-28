@@ -342,12 +342,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "f2c03d375b686441ca238d7b813fd1241dcf8cba",
     "author": "AldrinZurita",
     "commit": {
       "date": "2026-05-28T11:48:58.000Z",
       "message": "refactor: clarificar logica de filtrado de numeros mayores a 1000",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/f2c03d375b686441ca238d7b813fd1241dcf8cba"
     },
     "stats": {
       "total": 10,
@@ -357,6 +357,25 @@
     },
     "coverage": 93.1,
     "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "AldrinZurita",
+    "commit": {
+      "date": "2026-05-28T11:50:36.000Z",
+      "message": "feat: soportar delimitadores multi-caracter en verde",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 28,
+      "additions": 28,
+      "deletions": 0,
+      "date": "2026-05-28"
+    },
+    "coverage": 93.1,
+    "test_count": 9,
     "failed_tests": 0,
     "conclusion": "success"
   }
