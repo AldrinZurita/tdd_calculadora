@@ -30,9 +30,23 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "453e7d49045d61adf6a66416cad4fb33c51e07f4",
     "commitName": "test: caso cadena vacia devuelve 0 en rojo",
     "commitTimestamp": 1779932545669,
     "testId": 1
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 1,
+    "numTotalTests": 2,
+    "timestamp": 1779932552964,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: implementar sumarCadena para cadena vacia en verde",
+    "commitTimestamp": 1779932642516,
+    "testId": 2
   }
 ]

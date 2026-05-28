@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "453e7d49045d61adf6a66416cad4fb33c51e07f4",
     "author": "AldrinZurita",
     "commit": {
       "date": "2026-05-28T01:42:24.000Z",
       "message": "test: caso cadena vacia devuelve 0 en rojo",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/453e7d49045d61adf6a66416cad4fb33c51e07f4"
     },
     "stats": {
       "total": 13,
@@ -36,5 +36,24 @@
     "test_count": 2,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "AldrinZurita",
+    "commit": {
+      "date": "2026-05-28T01:44:01.000Z",
+      "message": "feat: implementar sumarCadena para cadena vacia en verde",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 12,
+      "deletions": 1,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
