@@ -272,9 +272,23 @@
     "testId": 16
   },
   {
-    "commitId": "HEAD",
+    "commitId": "f3f202cf04d02fc852551fb340e075a320cdabeb",
     "commitName": "test: ignorar numeros mayores a 1000 en rojo",
     "commitTimestamp": 1779968864389,
     "testId": 16
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 0,
+    "numTotalTests": 8,
+    "timestamp": 1779968896680,
+    "success": true,
+    "testId": 17
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: filtrar numeros mayores a 1000 en verde",
+    "commitTimestamp": 1779968906977,
+    "testId": 17
   }
 ]

@@ -304,12 +304,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "f3f202cf04d02fc852551fb340e075a320cdabeb",
     "author": "AldrinZurita",
     "commit": {
       "date": "2026-05-28T11:47:43.000Z",
       "message": "test: ignorar numeros mayores a 1000 en rojo",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/f3f202cf04d02fc852551fb340e075a320cdabeb"
     },
     "stats": {
       "total": 4,
@@ -321,5 +321,24 @@
     "test_count": 8,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "AldrinZurita",
+    "commit": {
+      "date": "2026-05-28T11:48:25.000Z",
+      "message": "feat: filtrar numeros mayores a 1000 en verde",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 18,
+      "additions": 16,
+      "deletions": 2,
+      "date": "2026-05-28"
+    },
+    "coverage": 93.1,
+    "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
