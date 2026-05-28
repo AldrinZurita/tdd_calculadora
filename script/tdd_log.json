@@ -258,9 +258,23 @@
     "testId": 15
   },
   {
-    "commitId": "HEAD",
+    "commitId": "70a8c35d2f21e9a6aa3d613834e4f727a28b447f",
     "commitName": "refactor: mejorar comentarios para parsing de delimitadores",
     "commitTimestamp": 1779968834593,
     "testId": 15
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 1,
+    "numTotalTests": 8,
+    "timestamp": 1779968859255,
+    "success": false,
+    "testId": 16
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: ignorar numeros mayores a 1000 en rojo",
+    "commitTimestamp": 1779968864389,
+    "testId": 16
   }
 ]

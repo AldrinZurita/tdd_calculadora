@@ -285,12 +285,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "70a8c35d2f21e9a6aa3d613834e4f727a28b447f",
     "author": "AldrinZurita",
     "commit": {
       "date": "2026-05-28T11:47:13.000Z",
       "message": "refactor: mejorar comentarios para parsing de delimitadores",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/70a8c35d2f21e9a6aa3d613834e4f727a28b447f"
     },
     "stats": {
       "total": 6,
@@ -302,5 +302,24 @@
     "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "AldrinZurita",
+    "commit": {
+      "date": "2026-05-28T11:47:43.000Z",
+      "message": "test: ignorar numeros mayores a 1000 en rojo",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0,
+      "date": "2026-05-28"
+    },
+    "coverage": 92.31,
+    "test_count": 8,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]
