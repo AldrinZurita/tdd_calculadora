@@ -39,5 +39,9 @@ describe("Calculadora de Cadenas", () => {
   it("deberia soportar delimitadores de múltiples caracteres", () => {
     expect(sumarCadena("//[***]\n1***2***3")).toEqual(6);
   });
+
+  it("deberia soportar múltiples delimitadores", () => {
+    expect(sumarCadena("//[*][%]\n1*2%3")).toEqual(6);
+  });
 });
 

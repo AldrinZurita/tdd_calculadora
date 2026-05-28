@@ -330,9 +330,39 @@
     "testId": 19
   },
   {
-    "commitId": "HEAD",
+    "commitId": "7c88e1fd7c9ce9f57c4359b38056c78ac2ce2519",
     "commitName": "feat: soportar delimitadores multi-caracter en verde",
     "commitTimestamp": 1779969037654,
     "testId": 19
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 0,
+    "numTotalTests": 9,
+    "timestamp": 1779969079366,
+    "success": true,
+    "testId": 20
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 0,
+    "numTotalTests": 10,
+    "timestamp": 1779969106688,
+    "success": true,
+    "testId": 20
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 1,
+    "numTotalTests": 10,
+    "timestamp": 1779969143161,
+    "success": false,
+    "testId": 20
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: multiples delimitadores en rojo",
+    "commitTimestamp": 1779969160852,
+    "testId": 20
   }
 ]

@@ -12,23 +12,11 @@ function sumarCadena(cadena) {
     const partes = cadena.split("\n");
     const definicion = partes[0].substring(2);
     contenido = partes[1] || "";
-    delimitadores = [];
-
-    // Parsear delimitadores: //[delim1][delim2]...
-    let index = 0;
-    while (index < definicion.length) {
-      if (definicion[index] === "[") {
-        const finDelim = definicion.indexOf("]", index);
-        if (finDelim !== -1) {
-          const delim = definicion.substring(index + 1, finDelim);
-          delimitadores.push(delim);
-          index = finDelim + 1;
-        } else {
-          index++;
-        }
-      } else {
-        index++;
-      }
+    
+    // Parsear un único delimitador: //[delim]
+    const match = definicion.match(/\[(.+?)\]/);
+    if (match) {
+      delimitadores = [match[1]];
     }
   }
 
