@@ -374,9 +374,23 @@
     "testId": 21
   },
   {
-    "commitId": "HEAD",
+    "commitId": "cc210e8124c039375fc871c93c084f239e285f8e",
     "commitName": "feat: soportar multiples delimitadores en verde",
     "commitTimestamp": 1779969194413,
     "testId": 21
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 0,
+    "numTotalTests": 10,
+    "timestamp": 1779969231233,
+    "success": true,
+    "testId": 22
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "refactor: mejorar legibilidad y documentacion final",
+    "commitTimestamp": 1779969245694,
+    "testId": 22
   }
 ]

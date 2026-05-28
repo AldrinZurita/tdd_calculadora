@@ -399,17 +399,36 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "cc210e8124c039375fc871c93c084f239e285f8e",
     "author": "AldrinZurita",
     "commit": {
       "date": "2026-05-28T11:53:13.000Z",
       "message": "feat: soportar multiples delimitadores en verde",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/cc210e8124c039375fc871c93c084f239e285f8e"
     },
     "stats": {
       "total": 30,
       "additions": 25,
       "deletions": 5,
+      "date": "2026-05-28"
+    },
+    "coverage": 93.1,
+    "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "AldrinZurita",
+    "commit": {
+      "date": "2026-05-28T11:54:04.000Z",
+      "message": "refactor: mejorar legibilidad y documentacion final",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 16,
+      "additions": 12,
+      "deletions": 4,
       "date": "2026-05-28"
     },
     "coverage": 93.1,
