@@ -188,9 +188,23 @@
     "testId": 10
   },
   {
-    "commitId": "HEAD",
+    "commitId": "a8e87dbe03dc5d5993cfa928bd86a913eefcb59d",
     "commitName": "test: caso separador guion en rojo",
     "commitTimestamp": 1779968647588,
     "testId": 10
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1779968667806,
+    "success": true,
+    "testId": 11
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: soportar separador guion en verde",
+    "commitTimestamp": 1779968682672,
+    "testId": 11
   }
 ]
