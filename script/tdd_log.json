@@ -360,9 +360,23 @@
     "testId": 20
   },
   {
-    "commitId": "HEAD",
+    "commitId": "4d0112a120a307c8150182c03d589689abe103f2",
     "commitName": "test: multiples delimitadores en rojo",
     "commitTimestamp": 1779969160852,
     "testId": 20
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 0,
+    "numTotalTests": 10,
+    "timestamp": 1779969179752,
+    "success": true,
+    "testId": 21
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: soportar multiples delimitadores en verde",
+    "commitTimestamp": 1779969194413,
+    "testId": 21
   }
 ]

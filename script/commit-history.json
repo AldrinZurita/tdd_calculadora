@@ -380,12 +380,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "4d0112a120a307c8150182c03d589689abe103f2",
     "author": "AldrinZurita",
     "commit": {
       "date": "2026-05-28T11:52:39.000Z",
       "message": "test: multiples delimitadores en rojo",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/4d0112a120a307c8150182c03d589689abe103f2"
     },
     "stats": {
       "total": 50,
@@ -397,5 +397,24 @@
     "test_count": 10,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "AldrinZurita",
+    "commit": {
+      "date": "2026-05-28T11:53:13.000Z",
+      "message": "feat: soportar multiples delimitadores en verde",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 30,
+      "additions": 25,
+      "deletions": 5,
+      "date": "2026-05-28"
+    },
+    "coverage": 93.1,
+    "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
