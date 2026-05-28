@@ -174,9 +174,23 @@
     "testId": 9
   },
   {
-    "commitId": "HEAD",
+    "commitId": "b6347925b9bc72ff4519ad2535f1502ccb418dfb",
     "commitName": "test: caso varios numeros separados por coma en rojo",
     "commitTimestamp": 1779933196111,
     "testId": 9
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1779968641179,
+    "success": false,
+    "testId": 10
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: caso separador guion en rojo",
+    "commitTimestamp": 1779968647588,
+    "testId": 10
   }
 ]
