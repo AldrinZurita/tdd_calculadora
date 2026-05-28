@@ -144,9 +144,39 @@
     "testId": 8
   },
   {
-    "commitId": "HEAD",
+    "commitId": "9659b108bafb1851f3c2d8717117b9b01db30bc6",
     "commitName": "refactor: usar reduce para suma mas funcional",
     "commitTimestamp": 1779933017254,
     "testId": 8
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1779933025910,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1779933044479,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1779933069633,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: caso varios numeros separados por coma en rojo",
+    "commitTimestamp": 1779933196111,
+    "testId": 9
   }
 ]
