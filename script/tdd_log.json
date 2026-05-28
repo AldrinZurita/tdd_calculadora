@@ -116,9 +116,23 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "f8fdb52fa304e82423ba47fcc7d0f8ffb54d574a",
     "commitName": "test: caso dos numeros separados por coma en rojo",
     "commitTimestamp": 1779932943700,
     "testId": 6
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1779932971763,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: soportar separador coma en verde",
+    "commitTimestamp": 1779932979177,
+    "testId": 7
   }
 ]
