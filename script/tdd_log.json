@@ -16,9 +16,23 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "365c085163f14e9e0697e15c1596b58e3b03fdd4",
     "commitName": "test: caso cadena vacia devuelve 0 en rojo",
     "commitTimestamp": 1779932373961,
     "testId": 0
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1779932394627,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: caso cadena vacia devuelve 0 en rojo",
+    "commitTimestamp": 1779932545669,
+    "testId": 1
   }
 ]

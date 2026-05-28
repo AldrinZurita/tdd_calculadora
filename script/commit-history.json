@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "365c085163f14e9e0697e15c1596b58e3b03fdd4",
     "author": "AldrinZurita",
     "commit": {
       "date": "2026-05-28T01:39:33.000Z",
       "message": "test: caso cadena vacia devuelve 0 en rojo",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/365c085163f14e9e0697e15c1596b58e3b03fdd4"
     },
     "stats": {
       "total": 32,
@@ -17,5 +17,24 @@
     "test_count": 2,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "AldrinZurita",
+    "commit": {
+      "date": "2026-05-28T01:42:24.000Z",
+      "message": "test: caso cadena vacia devuelve 0 en rojo",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 10,
+      "deletions": 3,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]

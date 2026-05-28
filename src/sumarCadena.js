@@ -1,8 +1,7 @@
 function sumarCadena(cadena) {
-  if (cadena === "") {
-    return 0;
-  }
+  // Implementar
 }
 
 export default sumarCadena;
+
 
